@@ -9,3 +9,11 @@ end
 def first_element(array)
   array[0]
 end
+
+def third_element
+end
+
+def last_element
+end
+
+def first_element_with_array_methods
